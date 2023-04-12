@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SaveDateArray</string>
+    <string name="nome_ed">Insira seu nome</string>
+    <string name="data">DD/MM/AAAA</string>
+    <string name="pass_ed">Insira a sua password que deseja criar</string>
+    <string name="nome_login">Insira seu user!</string>
+    <string name="password_login">Insira sua password</string>
+
+    <string-array name="cursos">
+        <item>Medicina</item>
+        <item>Informatica</item>
+        <item>Mecanica</item>
+        <item>Gestao</item>
+    </string-array>
+
+
+</resources>
